@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4901
+
+VIM file type plugin for Ls-Dyna FE solver.
+
+Main plugin features:
+- Syntax highlighting
+- Folding
+- Keyword library
+- Curve commands
+
+For detail plugin description see: https://github.com/gradzikb/vim-lsdyna
+
+
